@@ -11,4 +11,4 @@ I'm a Data Science student at Boston University with a strong interest in machin
 
 📌 Check out my latest project on [BreakthoughTechAI](https://github.com/lc430/incomplete-bttai-fall-ai-studio-project-repo)  
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/lize-chen-5b2438296/)  
-📧 Say hello to me: [Gmail] (chenlize0430@gmail.com)
+📧 Say hello to me: [Gmail](chenlize0430@gmail.com)
