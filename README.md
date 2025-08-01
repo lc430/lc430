@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 
 I'm a Data Science student at Boston University with a strong interest in machine learning, data analysis, and ethical AI. I enjoy working on real-world projects that turn messy data into meaningful insights. Currently exploring model interpretability, ensemble learning, and Python-based data pipelines.
 
-📌 Check out my latest project on [BreakthoughTech AI]()  
+📌 Check out my latest project on [BreakthoughTechAI](https://github.com/lc430/incomplete-bttai-fall-ai-studio-project-repo)  
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/lize-chen-5b2438296/)  
+📧 Say hello to me: [Gmail] (chenlize0430@gmail.com)
