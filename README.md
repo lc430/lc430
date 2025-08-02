@@ -14,4 +14,4 @@ I'm a Data Science student at Boston University with a strong interest in machin
 
 📧 Email me: <a href="mailto:chenlize0430@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/lize-chen-5b2438296/)  
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/lize-chen/)  
